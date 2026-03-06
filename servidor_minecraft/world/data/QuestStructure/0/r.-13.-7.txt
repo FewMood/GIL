@@ -1,0 +1,12 @@
+StoneLeafMound,-7097,-7088,-3590,-3583
+StonePlantBoulder,-6905,-6895,-3596,-3586
+StonePlantMound1,-7134,-7128,-3611,-3605
+StonePlantMound1,-7164,-7158,-3629,-3623
+StonePlantMound2,-7053,-7041,-3633,-3620
+StonePlantMound2,-7032,-7020,-3637,-3624
+StonePlantBoulder,-6947,-6937,-3735,-3725
+StoneBoulder,-6938,-6929,-3631,-3622
+StoneBoulder,-7052,-7043,-3821,-3812
+StonePlantMound3,-7141,-7132,-3913,-3902
+StonePlantMound2,-6835,-6822,-3637,-3625
+OldWatchtower,-6672,-6659,-3731,-3719

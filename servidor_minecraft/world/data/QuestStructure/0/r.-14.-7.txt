@@ -1,0 +1,12 @@
+StonePlantMound3,-7264,-7255,-3605,-3594
+StoneBoulder,-7196,-7187,-3606,-3597
+StoneBoulder,-7257,-7248,-3601,-3592
+StonePlantMound2,-7187,-7175,-3693,-3680
+StonePlantBoulder,-7179,-7169,-3810,-3800
+StoneLeafMound,-7302,-7295,-3730,-3721
+StonePlantMound3,-7314,-7303,-3698,-3689
+StoneBoulder,-7337,-7328,-3704,-3695
+StoneLeafMound,-7339,-7332,-3654,-3645
+StonePlantMound3,-7400,-7391,-3694,-3683
+StoneLeafMound,-7221,-7212,-3892,-3885
+StonePlantMound1,-7208,-7202,-3892,-3886
